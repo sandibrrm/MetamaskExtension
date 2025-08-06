@@ -1,2 +1,1 @@
-# MetamaskExtension
-Professional MetamaskExtension framework with MetamaskExtension-optimized intelligent-automation and enterprise scalable-architecture capabilities
+.
